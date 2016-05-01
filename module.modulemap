@@ -1,0 +1,4 @@
+module Cncurses [system] {
+    link "ncurses"
+    export *
+}
